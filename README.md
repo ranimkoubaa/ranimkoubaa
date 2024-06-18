@@ -21,7 +21,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/ranim-koubaa-865620243" target="_blank"><img src="https://img.shields.io/badge/-Ranim%20Koubaa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ranim-koubaa-865620243" target="_blank"><img src="https://img.shields.io/badge/-Ranim%20Koubaa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/ranimkoubaa" target="_blank"><img src="https://img.shields.io/badge/-Ranim%20Koubaa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <div>if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</div>
 </br>
