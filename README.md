@@ -19,7 +19,7 @@
 - 💻 Full-stack web developer with expertise in **JavaScript, ReactJS, and NodeJS**
 - 🤖 Expanding my skills into **Machine Learning and Data Science** with Python
 - 💬 Ask me about web development, ML algorithms, or anything tech-related
-- ⚡ Fun Fact: I'm a coffee enthusiast ☕ - my perfect day starts and ends with a cup of coffee
+- ⚡ Fun Fact: Pizza and code are my love languages 🍕💻
 - 🌐 Check out my portfolio at **[ranim-koubaa.netlify.app](https://ranim-koubaa.netlify.app/)**
 
 ---
@@ -89,9 +89,8 @@
 
 ---
 
-### ☕ Support My Work
-
-If you like what I do, consider buying me a coffee! 🥺👉👈
+### 💝 Support My Work
+If you like what I do, consider supporting me! 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/ranimkoubaa" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
