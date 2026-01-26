@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 I'm an IT student currently studying at **ISET Sfax** (Third Year Bachelor in Computer Technologies - DSI)
+- 🏢 I'm an IT student currently studying at **ISET Sfax** 
 - 💻 Full-stack web developer with expertise in **JavaScript, ReactJS, and NodeJS**
 - 🤖 Expanding my skills into **Machine Learning and Data Science** with Python
 - 💬 Ask me about web development, ML algorithms, or anything tech-related
